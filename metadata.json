@@ -1,0 +1,8 @@
+{
+  "name": "Miqnas Tracking",
+  "description": "Miqnas: A high-altitude bird tracking database for Pakistani migratory species, featuring real-time flight analysis and Gemini-powered environmental insights.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
